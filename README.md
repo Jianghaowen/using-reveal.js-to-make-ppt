@@ -1,5 +1,4 @@
 # using-reveal.js-to-make-ppt
-ppt of using reveal is
 This is some ppts using reveal.js to make.     
 You can find the demo by<a href="wp.jianghaowen.com/ppt">wp.jianghaowen.com/ppt</a>
 # Chinese version
